@@ -1,9 +1,9 @@
 {
   "snapshot": {
-    "name": "Snapshot",
-    "twitter": "SnapshotLabs",
-    "avatar": "https://pbs.twimg.com/profile_images/1305394576602013698/Tvz6UU5R_400x400.jpg",
-    "homepage": "https://snapshot.org",
+    "name": "DGC Portal",
+    "twitter": "OfficialDijets",
+    "avatar": "https://council.dijets.io/diej.jpg",
+    "homepage": "https://council.dijets.io",
     "url_scheme": "https://snapshot.org/#/{space}/proposal/{proposal}",
     "controller": "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7",
     "wallet": "0x8C28Cf33d9Fd3D0293f963b1cd27e3FF422B425c"

@@ -1173,6 +1173,20 @@
     "start": 176517,
     "logo": "ipfs://QmQrZjZZyAcQmPXJM2cUh1KaaDeM8Sfcg3HnvZpBj8wTnG"
   },
+  "43112": {
+    "key": "43112",
+    "name": "Dijets",
+    "chainId": 43112,
+    "network": "mainnet",
+    "testnet": false,
+    "multicall": "0xc1C0A1e862c24565954402386013f0cCFa87DCAa",
+    "rpc": [
+      "https://dijets.uksouth.cloudapp.azure.com:443/ext/bc/C/rpc"
+    ],
+    "explorer": "http://20.9.33.115:4000/",
+    "start": 179,
+    "logo": "ipfs://QmcXGHQxwSCovgazfwSLkeq3WPvz91BL9eLMMjGnFYbymE"
+  },
   "43113": {
     "key": "43113",
     "name": "Avalanche FUJI Testnet",
@@ -1192,7 +1206,7 @@
     "name": "Avalanche",
     "chainId": 43114,
     "network": "mainnet",
-    "multicall": "0x7E9985aE4C8248fdB07607648406a48C76e9e7eD",
+    "multicall": "0xc1C0A1e862c24565954402386013f0cCFa87DCAa",
     "rpc": [
       "https://nd-784-543-849.p2pify.com/aa7b29fc5fed65b34f0ee6b8de33f8c0/ext/bc/C/rpc",
       "https://rpc.ankr.com/avalanche",
